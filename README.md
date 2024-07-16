@@ -14,7 +14,7 @@ A passionate Full Stack Web developer from India who always strives to work on e
 
 ### Skills :
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   &nbsp; &nbsp; 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -55,15 +55,15 @@ A passionate Full Stack Web developer from India who always strives to work on e
 
 <p align="center"> 
   <a href="https://github.com/Shiwanikatiyar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=pink alt=github style="margin-bottom: 5px;" />
 </a>
   &nbsp; &nbsp;
 <a href="https://linkedin.com/in/shiwanikatiyar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=pink  alt=linkedin style="margin-bottom: 5px;" />
 </a>
   &nbsp; &nbsp;
 <a href="https://instagram.com/shiwani_katiyar" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=pink alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </p>
 
