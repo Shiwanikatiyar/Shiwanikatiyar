@@ -11,7 +11,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 * ✉️  You can contact me at - shiwanikatiyarknj@gmail.com
 * 🧠  I'm learning - Backend
 
-### Skills
+### Skills :
 
 
 <p align="left">
@@ -49,7 +49,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 </p>
 
 
-### Socials
+### Connect With me :
 
 <p align="left"> 
   <a href="https://www.github.com/Shiwanikatiyar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
@@ -58,7 +58,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/shiwanikatiyar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Badges : 
 
 <b>My GitHub Stats</b>
 
