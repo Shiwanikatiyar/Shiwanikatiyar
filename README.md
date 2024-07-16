@@ -7,8 +7,8 @@ A passionate MERN Stack Developer from India
 I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
 * 🌍  I'm based in - India
-* 🖥️  See my portfolio at - [\ My Portfolio](http:////my-protfolio-ruddy-three.vercel.app/)
-* ✉️  You can contact me at - [\ shiwanikatiyarknj@gmail.com](mailto:- shiwanikatiyarknj@gmail.com)
+* 🖥️  See my portfolio at - [ My Portfolio](http:////my-protfolio-ruddy-three.vercel.app/)
+* ✉️  You can contact me at - shiwanikatiyarknj@gmail.com
 * 🧠  I'm learning - Backend
 
 ### Skills
