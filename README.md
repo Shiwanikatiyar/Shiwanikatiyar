@@ -68,7 +68,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </p>
-  
+
 ### Badges : 
 
 <b>My GitHub Stats</b>
