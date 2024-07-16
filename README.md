@@ -1,19 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shiwani Katiyar
 =======================================================================================================================================
 
-A passionate MERN Stack Developer from India
+A passionate Full Stack Web developer from India who always strives to work on end to end products. I specialised in building web applications with the MERN stack.
 --------------------------------------------
-
-I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
-
-
+<img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" align="right" height="" width="40%" />  
+<br>
 
 * 🌍  I'm based in - India
 * 🖥️  See my portfolio at - [ My Portfolio](http:////my-protfolio-ruddy-three.vercel.app/)
 * ✉️  You can contact me at - shiwanikatiyarknj@gmail.com
 * 🧠  I'm learning - Backend
-  
-    <img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" align="left" height="" width="100%" />  
+
 
 ### Skills :
 
@@ -53,6 +50,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 </p>
 
 
+ 
 ### Connect With me :
 
 <p align="center"> 
