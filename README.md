@@ -11,8 +11,11 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 * ✉️  You can contact me at - shiwanikatiyarknj@gmail.com
 * 🧠  I'm learning - Backend
 
-### Skills :
+<img src="https://camo.githubusercontent.com/af36071b29395cec244ee864eb51e1ea1e95f16590bc2bca563357d4d94f7381/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726f786966792d696f2f696d6167652f75706c6f61642f635f66696c6c2c665f6175746f2c715f6175746f2c6470725f6175746f2c775f313434302c685f3630302f76312f636d732f696d616765732f61727469636c65732f546b79463649306c4c776644464a674b3438464b32416c70667464697447374773424855704230452e706e67" align="left" height="" width="100%" />  
 
+<br/>  
+
+### Skills :
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
