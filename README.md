@@ -70,7 +70,8 @@ A passionate Full Stack Web developer from India who always strives to work on e
 ## 📊 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shiwanikatiyar&bg_color=1d1117&color=d926cd&line=a7258f&point=988686&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shiwanikatiyar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
