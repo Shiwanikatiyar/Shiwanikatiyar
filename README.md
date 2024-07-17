@@ -12,7 +12,7 @@ A passionate Full Stack Web developer from India who always strives to work on e
 * 🧾 Check out my - [resume](https://drive.google.com/file/d/1Er7DygGflCp2SSEruSon2T_WdLcW7hJM/view?usp=drive_link).
 * 👨‍💻 All of my projects are available at - [Shiwanikatiyar](https://github.com/Shiwanikatiyar)
 * ✉️  You can contact me at - shiwanikatiyarknj@gmail.com
-* 💬 Ask me about Python, HTML & CSS.
+* 💬 Ask me about Python, React, JS, HTML & CSS.
 * ✌️ Enjoy doing programming and sharing knowledge.
 * ❤️ Love to write code and learn new features.
 * ⚡ Fun fact - You only achieve your dreams if you dare to dream them first.!
