@@ -6,10 +6,16 @@ A passionate Full Stack Web developer from India who always strives to work on e
 <img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" align="right" height="" width="40%" />  
 <br>
 
-* 🌍  I'm based in - India
+* 🌍  I'm based in - Kannauj (UP)
+* 🌱 I’m currently learning- Backend
 * 🖥️  See my portfolio at - [ My Portfolio](http:////my-protfolio-ruddy-three.vercel.app/)
+* 🧾 Check out my - [resume](https://drive.google.com/file/d/1Er7DygGflCp2SSEruSon2T_WdLcW7hJM/view?usp=drive_link).
+* 👨‍💻 All of my projects are available at - [Shiwanikatiyar](https://github.com/Shiwanikatiyar)
 * ✉️  You can contact me at - shiwanikatiyarknj@gmail.com
-* 🧠  I'm learning - Backend
+* 💬 Ask me about Python, HTML & CSS.
+* ✌️ Enjoy doing programming and sharing knowledge.
+* ❤️ Love to write code and learn new features.
+* ⚡ Fun fact - You only achieve your dreams if you dare to dream them first.!
 
 
 
